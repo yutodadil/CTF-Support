@@ -21,6 +21,7 @@ def Pwn_Rev():
     > strings
     > xxd
     > od
+    
     > hexdump
     > objdump
     > rp++(https://github.com/0vercl0k/rp)
