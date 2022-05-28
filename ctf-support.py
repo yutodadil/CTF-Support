@@ -93,6 +93,7 @@ def Web():
 def Misc():
     print("""
     > CyberChef(https://gchq.github.io/CyberChef/)
+    > impacket(https://github.com/SecureAuthCorp/impacket)
     > cmd5(http://cmd5.com/)
     > somd5(https://somd5.com/)
     > crackstation(https://crackstation.net/)
