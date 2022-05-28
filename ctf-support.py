@@ -37,6 +37,7 @@ def Crypto():
     > RSACTFTool(https://github.com/Ganapati/RsaCtfTool)
     > xortool(https://github.com/hellman/xortool)
     > padbuster(https://github.com/AonCyberLabs/PadBuster)
+    > hash-identifier(https://github.com/blackploit/hash-identifier)
     > factordb(http://factordb.com/)
     > hashcat(https://github.com/hashcat/hashcat)
     > John The Ripper(https://github.com/openwall/john)
