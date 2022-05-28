@@ -41,6 +41,7 @@ def Crypto():
     > factordb(http://factordb.com/)
     > hashcat(https://github.com/hashcat/hashcat)
     > John The Ripper(https://github.com/openwall/john)
+    > dcode.fr(https://www.dcode.fr/identification-chiffrement)
     > CyberChef(https://gchq.github.io/CyberChef/)
     """)
 
