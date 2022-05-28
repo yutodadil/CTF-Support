@@ -93,6 +93,10 @@ def Web():
 def Misc():
     print("""
     > CyberChef(https://gchq.github.io/CyberChef/)
+    > cmd5(http://cmd5.com/)
+    > somd5(https://somd5.com/)
+    > crackstation(https://crackstation.net/)
+    > hashkiller(https://hashkiller.co.uk/)
     """)
 
 def category():
