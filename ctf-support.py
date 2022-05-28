@@ -81,6 +81,7 @@ def Web():
     > postman(https://www.postman.com/)
     > raccoon(https://github.com/evyatarmeged/Raccoon)
     > sqlmap(https://github.com/sqlmapproject/sqlmap)
+    > tplmap(https://github.com/epinna/tplmap)
     > xsser(https://github.com/epsylon/xsser)
     > SecLists(https://github.com/danielmiessler/SecLists)
     > git-dumper(https://github.com/arthaud/git-dumper)
