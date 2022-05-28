@@ -34,6 +34,7 @@ def Crypto():
     > Hash Extender(https://github.com/iagox86/hash_extender)
     > PkCrack(https://github.com/keyunluo/pkcrack)
     > RSACTFTool(https://github.com/Ganapati/RsaCtfTool)
+    > xortool(https://github.com/hellman/xortool)
     > padbuster(https://github.com/AonCyberLabs/PadBuster)
     > factordb(http://factordb.com/)
     > hashcat(https://github.com/hashcat/hashcat)
@@ -44,7 +45,7 @@ def Crypto():
 def Forensics():
     print("""
     --- Forensics ---
-    > exiftool(Image)
+    > exiftool
     > binwalk
     > foremost
     > steghide 
