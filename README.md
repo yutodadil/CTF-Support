@@ -1,6 +1,6 @@
 # CTF-Support
 
-$ ./ctf-support
+    ./ctf-support
 
     1) Pwn & Rev
     2) Crypto
