@@ -15,6 +15,7 @@ def Pwn_Rev():
     > IDA Pro(https://hex-rays.com/ida-free/)
     > Immunity Debugger(https://www.immunityinc.com/products/debugger/)
     > checksec(https://github.com/slimm609/checksec.sh)
+    > Binary Exploitation Notes(https://ir0nstone.gitbook.io/notes/)
     > strace
     > ltrace
     > strings
