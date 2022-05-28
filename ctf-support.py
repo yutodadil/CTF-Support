@@ -34,6 +34,7 @@ def Crypto():
     > Hash Extender(https://github.com/iagox86/hash_extender)
     > PkCrack(https://github.com/keyunluo/pkcrack)
     > RSACTFTool(https://github.com/Ganapati/RsaCtfTool)
+    > padbuster(https://github.com/AonCyberLabs/PadBuster)
     > factordb(http://factordb.com/)
     > hashcat(https://github.com/hashcat/hashcat)
     > John The Ripper(https://github.com/openwall/john)
