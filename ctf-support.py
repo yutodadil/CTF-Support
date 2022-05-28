@@ -42,6 +42,8 @@ def Crypto():
     > hashcat(https://github.com/hashcat/hashcat)
     > John The Ripper(https://github.com/openwall/john)
     > dcode.fr(https://www.dcode.fr/identification-chiffrement)
+    > Substitution Solver(https://www.guballa.de/substitution-solver)
+    > Vigenere Solver(https://www.guballa.de/vigenere-solver)
     > CyberChef(https://gchq.github.io/CyberChef/)
     """)
 
