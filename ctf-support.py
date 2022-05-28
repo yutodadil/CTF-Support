@@ -102,7 +102,7 @@ def category():
     
     0) Exit
     """)
-    number = int(input())
+    number = int(input("Number-> "))
     return number
     
 def main():
