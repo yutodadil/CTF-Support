@@ -56,6 +56,7 @@ def Forensics():
     > steghide 
     > fls
     > icat
+    > Aperi'Solve(https://aperisolve.fr/)
     > stegoveritas(https://github.com/bannsec/stegoVeritas)
     > strong-qr-decoder(https://github.com/waidotto/strong-qr-decoder)
     > qrazybox(https://github.com/Merricx/qrazybox or https://h3110w0r1d.com/qrazybox/)
