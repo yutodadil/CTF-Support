@@ -62,6 +62,7 @@ def Forensics():
     > qrazybox(https://github.com/Merricx/qrazybox or https://h3110w0r1d.com/qrazybox/)
     > strings
     > ImageMagick(https://github.com/ImageMagick/ImageMagick)
+    > LostMyPass(https://www.lostmypass.com/)
     > CyberChef
     """)
 
