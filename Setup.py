@@ -6,7 +6,7 @@ import getpass
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-inp1 = getpass.getpass("Welcome to Setup.py!!\nEnter to continue") # 文字入力できるのはダサいから入力しても出ないようにした。
+inp1 = getpass.getpass("Welcome to Setup.py!!\nEnter to continue") # 文字入力できるのはダサいから入力しても画面に出ないようにした。
 inp2 = input("Start Setup? Y/n\n ->")
 if inp2 == "Y" or inp2 == "y" or inp2 == "yes" or inp2 == "Yes" or inp2 == "YES":
             clear()
