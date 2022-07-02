@@ -1,11 +1,12 @@
 import os
 import random
 import time
+import getpass
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-inp1 = input("Welcome to Setup.py!!\nEnter to continue")
+inp1 = getpass.getpass("Welcome to Setup.py!!\nEnter to continue") # 文字入力できるのはダサいから入力しても出ないようにした。
 inp2 = input("Start Setup? Y/n\n ->")
 if inp2 == "Y" or inp2 == "y" or inp2 == "yes" or inp2 == "Yes" or inp2 == "YES":
             clear()
@@ -15,7 +16,7 @@ if inp2 == "Y" or inp2 == "y" or inp2 == "yes" or inp2 == "Yes" or inp2 == "YES"
             print("Start Setup...")
             os.system("apt update -y;apt upgrade -y;apt install nodejs npm git python3-pip -y") # apt update -y;apt upgradeは一緒にやるとErrorが出る場合があるのでこのように別々にしましょう。
             os.system("logout")
-            inp3 = ("Done, Press Enter to Exit")
+            inp3 = getpass.getpass("Done, Press Enter to Exit")
             print("Finish!! Cya")
             time.sleep(3)
             clear()
