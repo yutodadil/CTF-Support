@@ -14,6 +14,7 @@ if inp2 == "Y" or inp2 == "y" or inp2 == "yes" or inp2 == "Yes" or inp2 == "YES"
             clear()
             print("Start Setup...")
             os.system("apt update -y;apt upgrade -y;apt install nodejs npm git python3-pip -y")
+            os.system("logout")
             inp3 = ("Done, Press Enter to Exit")
             print("Finish!! Cya")
             time.sleep(3)
