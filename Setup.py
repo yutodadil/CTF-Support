@@ -20,3 +20,9 @@ if inp2 == "Y" or inp2 == "y" or inp2 == "yes" or inp2 == "Yes" or inp2 == "YES"
             time.sleep(3)
             clear()
             os._exit(1)
+elif inp2 == "N" or inp2 == "n" or inp2 == "no" or inp2 == "No" or inp2 == "NO":
+            clear()
+            print("Ok...\nBye.")
+            time.sleep(3)
+            clear()
+            os._exit(1)
