@@ -6,7 +6,7 @@ def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 inp1 = input("Welcome to Setup.py!!\nEnter to continue")
-inp2 = input("Start Setup? Y/n")
+inp2 = input("Start Setup? Y/n\n ->")
 if inp2 == "Y" or inp2 == "y" or inp2 == "yes" or inp2 == "Yes" or inp2 == "YES":
             clear()
             print("Please Root Access.")
